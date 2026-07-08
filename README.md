@@ -53,6 +53,14 @@ nav a:hover{
     justify-content:center;
     align-items:center;
     text-align:center;
+    .hero {
+    height: 75vh;
+    background: url("YOUR_NEW_RUNNING_MAN_IMAGE_URL_HERE") center / cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
 }
 
 .hero h1{
