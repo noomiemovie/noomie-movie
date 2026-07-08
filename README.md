@@ -58,7 +58,7 @@ nav a:hover{
 .hero h1{
     font-size:55px;
 }
-
+<style> background:url("https://www.pinterest.com/pin/running-man--195695546302230395/")
 .hero p{
     margin:20px 0;
     font-size:18px;
@@ -238,28 +238,8 @@ button:hover{
 
 <div class="card">
 
-    <!-- Replace with your own licensed image -->
-    <img src="images/running-man.jpg" alt="Running Man">
-
-    <div class="content">
-        <h2>Running Man</h2>
-
-        <p>
-            South Korea's long-running variety show featuring celebrity guests,
-            exciting missions, and hilarious games.
-        </p>
-
-        <button onclick="window.open('https://www.youtube.com/results?search_query=Running+Man+official+trailer')">
-            Watch Trailer
-        </button>
-    </div>
-
-</div>
-
-</div>
-
 </body>
-</html>src="images/running-man.jpg" alt="Running Man">
+</html>src=
 <div class="card-content">
 <h3>Running Man</h3>
 <p>Legendary Korean variety show full of games, missions and comedy.</p>
