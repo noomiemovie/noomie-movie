@@ -1,0 +1,22 @@
+<div class="card">
+    <img src="images/weightlifting-fairy.jpg" alt="Weightlifting Fairy Kim Bok-joo">
+
+    <div class="card-content">
+        <h3>Weightlifting Fairy Kim Bok-joo</h3>
+
+        <p>
+            A heartwarming coming-of-age romantic comedy about college athletes,
+            friendship, dreams, and first love.
+        </p>
+
+        <p><strong>Genre:</strong> Romance • Comedy • Sports</p>
+        <p><strong>Episodes:</strong> 16</p>
+        <p><strong>Year:</strong> 2016</p>
+
+        <a href="https://www.youtube.com/results?search_query=Weightlifting+Fairy+Kim+Bok+joo+official+trailer"
+           target="_blank"
+           class="btn">
+            ▶ Watch Trailer
+        </a>
+    </div>
+</div>
