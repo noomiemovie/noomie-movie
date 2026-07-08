@@ -162,7 +162,7 @@ footer{
 <div class="grid">
 
 <div class="card">
-<img src="https://upload.wikimedia.org/wikipedia/en/8/83/RunningMan_logo.png" alt="Running Man">
+<img <img src="images/running-man.jpg" alt="Running Man">
 <div class="card-content">
 <h3>Running Man</h3>
 <p>Legendary Korean variety show full of games, missions and comedy.</p>
