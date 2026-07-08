@@ -255,7 +255,8 @@ button:hover{
 </div>
 
 <div class="card">
-<img src="https://picsum.photos/300/400?random=1" alt="">
+<img src=<img width="554" height="554" alt="image" src="https://github.com/user-attachments/assets/bebdcd37-67f9-40f3-809a-93e0a282e93e" />
+ alt="">
 <div class="card-content">
 <h3>Queen of Tears</h3>
 <p>Romantic drama starring Kim Soo-hyun and Kim Ji-won.</p>
