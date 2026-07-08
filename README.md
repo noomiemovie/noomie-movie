@@ -162,7 +162,104 @@ footer{
 <div class="grid">
 
 <div class="card">
-<img <img src="images/running-man.jpg" alt="Running Man">
+<img <img <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Running Man</title>
+
+<style>
+body{
+    margin:0;
+    background:#111;
+    font-family:Arial, sans-serif;
+    color:white;
+}
+
+.container{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+
+.card{
+    width:350px;
+    background:#222;
+    border-radius:15px;
+    overflow:hidden;
+    box-shadow:0 0 20px rgba(0,0,0,.5);
+    transition:0.3s;
+}
+
+.card:hover{
+    transform:scale(1.05);
+}
+
+.card img{
+    width:100%;
+    height:450px;
+    object-fit:cover;
+}
+
+.content{
+    padding:20px;
+}
+
+h2{
+    margin:0 0 10px;
+}
+
+p{
+    color:#ccc;
+    line-height:1.6;
+}
+
+button{
+    margin-top:15px;
+    padding:10px 20px;
+    border:none;
+    background:#ff4b2b;
+    color:white;
+    border-radius:6px;
+    cursor:pointer;
+}
+
+button:hover{
+    background:#ff416c;
+}
+</style>
+
+</head>
+<body>
+
+<div class="container">
+
+<div class="card">
+
+    <!-- Replace with your own licensed image -->
+    <img src="images/running-man.jpg" alt="Running Man">
+
+    <div class="content">
+        <h2>Running Man</h2>
+
+        <p>
+            South Korea's long-running variety show featuring celebrity guests,
+            exciting missions, and hilarious games.
+        </p>
+
+        <button onclick="window.open('https://www.youtube.com/results?search_query=Running+Man+official+trailer')">
+            Watch Trailer
+        </button>
+    </div>
+
+</div>
+
+</div>
+
+</body>
+</html>src="images/running-man.jpg" alt="Running Man">
 <div class="card-content">
 <h3>Running Man</h3>
 <p>Legendary Korean variety show full of games, missions and comedy.</p>
