@@ -300,6 +300,13 @@ button:hover{
 </div>
 
 <footer>
+    KDrama Hub/
+│── index.html
+│── qot.webp
+│── rm.jpg
+│── cloy.jpg
+│── bs.jpg
+└── moving.jpg
 © 2026 KDrama Hub | Made with ❤️
 </footer>
 
